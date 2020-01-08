@@ -1,0 +1,9 @@
+{
+  "name": "microservice-architeture-ecommerce",
+  "version": "0.0.1",
+  "description": "Microservice architeture for e-commerce",
+  "main": "index.js",
+  "author": "Deyvison Borges",
+  "license": "Apache-2.0",
+  "private": false
+}
